@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo {
+	background: url(svg/logo-contewood.svg)
+}
+
+.texto{
+	font-family: GeometricSlab703BT;
+	color: #545454;
+	font-size: 30px;
+	font-weight: 500;
+}
+
+.slide{
+	background: url(img/fundo_slide_home.png)
+}
+
+.botao{
+	border-width: 2px;
+	border-color: #959595;
+}
+
+.gradiente{
+	background: -webkit-linear-gradient(41deg, #ff6e02 41%, #ff9c00 59%);
+	background: -moz-linear-gradient(41deg, #ff6e02 41%, #ff9c00 59%);
+	background: -o-linear-gradient(41deg, #ff6e02 41%, #ff9c00 59%);
+	background: linear-gradient(49deg, #ff6e02 41%, #ff9c00 59%);
+}
